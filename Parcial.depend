@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1593476562 source:c:\users\grabi\desktop\ll para parcial\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"bicicletas.h"
+
+1593476207 c:\users\grabi\desktop\ll para parcial\linkedlist.h
+
+1593476478 c:\users\grabi\desktop\ll para parcial\bicicletas.h
+
+1593474448 source:c:\users\grabi\desktop\ll para parcial\files.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"files.h"
+	"LinkedList.h"
+	"bicicletas.h"
+
+1593477313 c:\users\grabi\desktop\ll para parcial\files.h
+	"LinkedList.h"
+
+1593178072 source:c:\users\grabi\desktop\ll para parcial\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inputs.h"
+
+1593178072 c:\users\grabi\desktop\ll para parcial\inputs.h
+
+1593477549 source:c:\users\grabi\desktop\ll para parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593476478 source:c:\users\grabi\desktop\ll para parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"bicicletas.h"
+	"files.h"
+	"inputs.h"
+	<time.h>
+
